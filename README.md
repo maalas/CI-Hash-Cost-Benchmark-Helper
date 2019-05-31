@@ -6,4 +6,4 @@ CodeIgniter Helper to Benchmark Your Server for Hashing Cost
 ### Curently Supported Hash Algorithm
 
 * BYCRYPT
-* ARGON2
+* ARGON2 (Ongoing)
